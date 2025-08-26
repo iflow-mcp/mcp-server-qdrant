@@ -36,3 +36,6 @@ testpaths = ["tests"]
 python_files = "test_*.py"
 python_functions = "test_*"
 asyncio_mode = "auto"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/mcp_server_qdrant"]
