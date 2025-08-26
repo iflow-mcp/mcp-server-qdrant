@@ -1,5 +1,5 @@
 [project]
-name = "mcp-server-qdrant"
+name = "iflow-mcp_mcp-server-qdrant"
 version = "0.8.0"
 description = "MCP server for retrieving context from a Qdrant vector database"
 readme = "README.md"
